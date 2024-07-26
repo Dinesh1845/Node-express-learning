@@ -9,3 +9,5 @@ console.log("hello");
 
 const letter = require('./2modules.js');
 console.log(letter);
+const word = require('./2modules.js')
+console.log(word);
